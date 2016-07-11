@@ -10,7 +10,7 @@ title: Pawstet
 email: jayromjavier@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My startup e-commerce and advertising website. Pawstet is the name for I am an animal lover. =)
-baseurl: "/Pawstet" # the subpath of your site, e.g. /blog
+baseurl: "/pawstet" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site
 twitter_username: jhepong24
 github_username:  jhepong
